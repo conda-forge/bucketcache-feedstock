@@ -23,7 +23,7 @@ requirements:
     - represent >=1.5.1
     - boltons
     - python-dateutil
-    - pathlib
+    - pathlib # [py<=34]
 
   run:
     - python
@@ -33,7 +33,7 @@ requirements:
     - represent >=1.5.1
     - boltons
     - python-dateutil
-    - pathlib
+    - pathlib # [py<=34]
 
 test:
   imports:
