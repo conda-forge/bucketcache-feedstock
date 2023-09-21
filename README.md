@@ -1,11 +1,11 @@
-About bucketcache
-=================
+About bucketcache-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/bucketcache-feedstock/blob/main/LICENSE.txt)
 
 Home: http://github.com/RazerM/bucketcache
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/bucketcache-feedstock/blob/main/LICENSE.txt)
 
 Summary: Versatile persistent file cache 
 
